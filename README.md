@@ -1,15 +1,8 @@
-Deal Drop –Online Reselling Platform
-Deal Drop is a web-based application that allows users to buy and sell pre-owned products with ease. Users can register, log in, manage their profiles, and list items for sale. The platform supports product browsing, search, and filtering, along with a personalized profile section where users can view and manage their own listings.
+# React + Vite
 
-Key Features:
-User registration and secure login with password hashing
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Add, view product listings
+Currently, two official plugins are available:
 
-Dynamic navbar based on login state
-
-Search and filter products by category or location
-
-Backend built with Spring Boot and MongoDB
-
-Frontend developed using React with Bootstrap
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
